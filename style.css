@@ -1,0 +1,291 @@
+#sign{
+    height: 3px;
+    width: 3px;
+}
+body{
+    position: relative;
+    width: 1578px;
+    height: 1020px;
+    
+    background: #FFFFFF;
+}
+#main1{
+    position: absolute;
+width: 1728px;
+height: 1117px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+}
+#form1{
+    position: absolute;
+width: 1181px;
+height: 712px;
+left: 198px;
+top: 154px;
+}
+#l0{
+    
+position: absolute;
+width: 600px;
+height: 144px;
+left: 202px;
+top: 154px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #FFFFFF;
+}
+#l1{
+    position: absolute;
+    width: 112px;
+    height: 29px;
+    left: 202px;
+    top: 278px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+#hr1{
+    position: absolute;
+width: 1177px;
+height: 0px;
+left: 202px;
+top: 324.01px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.1deg);
+}
+#l2{
+    position: absolute;
+width: 60px;
+height: 29px;
+left: 202px;
+top: 352px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+#hr2{
+    position: absolute;
+width: 1177px;
+height: 0px;
+left: 202px;
+top: 398.01px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.1deg);
+}
+#l3{
+    position: absolute;
+width: 109px;
+height: 29px;
+left: 202px;
+top: 426px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+#hr3{
+
+    position: absolute;
+    width: 1177px;
+    height: 0px;
+    left: 202px;
+    top: 472.01px;
+    
+    border: 1px solid #FFFFFF;
+    transform: rotate(-0.1deg);
+}
+#l4{
+    position: absolute;
+width: 244px;
+height: 29px;
+left: 202px;
+top: 500px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+#hr4{
+    position: absolute;
+width: 1177px;
+height: 0px;
+left: 202px;
+top: 546.01px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.1deg);
+}
+#l5{
+    position: absolute;
+width: 244px;
+height: 58px;
+left: 202px;
+top: 574px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+#hr5{
+    position: absolute;
+width: 1177px;
+height: 0px;
+left: 202px;
+top: 620.01px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(-0.1deg);
+}
+#r1{
+    box-sizing: border-box;
+
+position: absolute;
+width: 17px;
+height: 17px;
+left: 202px;
+top: 656px;
+
+border: 1px solid #FFFFFF;
+border-radius: 1000px;
+}
+#l6{
+    position: absolute;
+    width: 244px;
+    height: 29px;
+    left: 229px;
+    top: 650px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF; 
+}
+#r2{box-sizing: border-box;
+
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 383px;
+    top: 656px;
+    
+    border: 1px solid #FFFFFF;
+    border-radius: 1000px;
+}
+#l7{
+    position: absolute;
+width: 244px;
+height: 29px;
+left: 407px;
+top: 650px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF; 
+}
+#ch{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 21px;
+height: 21px;
+left: 198px;
+top: 713px;
+
+border: 1px solid #FFFFFF;
+}
+#l8{
+    position: absolute;
+width: 430px;
+height: 29px;
+left: 232px;
+top: 709px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+#btn{
+    position: absolute;
+    width: 226px;
+    height: 58px;
+    left: 198px;
+    top: 808px;
+    
+    background: #FFFFFF;
+    
+}
+btn:hover{
+    position: absolute;
+width: 81px;
+height: 33px;
+left: 266px;
+top: 820px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
